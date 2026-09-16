@@ -37,6 +37,9 @@ jobs:
           # Floor at 40: shorter per-worker runtime keeps the headless browser
           # well below the ~2h death threshold we observed on the 2-core runners.
           if [ "$n" -lt 40 ]; then n=40; fi
+          # Ceiling at 250: a job matrix can generate at most 256 jobs per run,
+          # and exceeding it fails the whole run rather than degrading.
+          if [ "$n" -gt 250 ]; then n=250; fi
           echo "matrix=$(seq 0 $((n-1)) | jq -Rsc 'split("\n")[:-1] | map(tonumber)')" >> "$GITHUB_OUTPUT"
           echo "worker_count=$n" >> "$GITHUB_OUTPUT"
 
@@ -106,8 +109,9 @@ jobs:
         name: Compute error rate
         run: |
           python - <<'PY' >> "$GITHUB_OUTPUT"
-          import json, os
-          path = f"results/batch-${{ inputs.batch_label }}.jsonl"
+          import csv, json, os, sys
+          label = "${{ inputs.batch_label }}"
+          path = f"results/batch-{label}.jsonl"
           total = errors = 0
           for line in open(path, encoding="utf-8"):
               line = line.strip()
@@ -115,8 +119,42 @@ jobs:
               total += 1
               if json.loads(line).get("error"): errors += 1
           err_pct = (errors * 100 / total) if total else 0
+
+          # err_pct cannot see a worker whose artifact never uploaded: that chunk
+          # contributes zero rows, so it is absent from BOTH the numerator and the
+          # denominator and the batch still reports 0.00%. Comparing against the
+          # batch CSV is the only check that catches silent chunk loss.
+          # csv.reader (not line counting) because a quoted embedded newline
+          # otherwise inflates the count by one.
+          with open(f"batches-public/batch-{label}.csv", encoding="utf-8",
+                    errors="replace") as f:
+              expected = sum(1 for _ in csv.reader(f)) - 1   # minus header
+          missing = max(0, expected - total)
+          missing_pct = (missing * 100 / expected) if expected else 0
+
+          # A percentage threshold cannot police missing chunks: one lost chunk
+          # is 1/worker_count of the batch (2.5% at 40 workers, 0.83% at 120),
+          # so it always sits under the 5% error threshold. Historically batch
+          # 333 (2.50%) and batch 287 (5.00%) both advanced as "0.00% errors".
+          # Healthy batches match the CSV exactly, so use a small absolute
+          # tolerance instead of a rate.
+          MISSING_TOLERANCE = 10
+          retry_needed = (err_pct > 5) or (missing > MISSING_TOLERANCE)
+
           print(f"err_pct={err_pct:.2f}")
-          print(f"  total={total}  errors={errors}  err_pct={err_pct:.2f}%", flush=True)
+          print(f"missing_pct={missing_pct:.2f}")
+          print(f"expected={expected}")
+          print(f"actual={total}")
+          print(f"missing={missing}")
+          print(f"retry_needed={'true' if retry_needed else 'false'}")
+          # Human-readable summary to stderr so it lands in the log, not in
+          # $GITHUB_OUTPUT (which this heredoc is redirected into).
+          print(f"  expected={expected} actual={total} missing={missing} "
+                f"errors={errors} err_pct={err_pct:.2f}% "
+                f"missing_pct={missing_pct:.2f}%", file=sys.stderr, flush=True)
+          if missing:
+              print(f"  WARNING: {missing} rows missing — a chunk artifact is "
+                    f"absent or truncated", file=sys.stderr, flush=True)
           PY
 
       - name: Commit results
@@ -145,22 +183,33 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           current="${{ inputs.batch_label }}"
+          # retry_needed covers BOTH a high error rate and missing rows. Using
+          # err_pct alone let a batch that silently lost whole chunks advance as
+          # if clean, because an absent chunk contributes no rows to count.
+          retry_needed="${{ steps.stats.outputs.retry_needed }}"
           err_pct="${{ steps.stats.outputs.err_pct }}"
+          missing="${{ steps.stats.outputs.missing }}"
           retry_count=${{ inputs.retry_count }}
-          # Retry same batch if errors > 5% and we've retried <2 times.
+          # Retry same batch if defective and we've retried <2 times.
           # Otherwise advance to the next batch.
-          if awk "BEGIN{exit !($err_pct > 5)}" && [ "$retry_count" -lt 2 ]; then
+          if [ "$retry_needed" = "true" ] && [ "$retry_count" -lt 2 ]; then
             next="$current"
             next_retry=$((retry_count + 1))
-            echo "→ retrying batch $current (attempt $next_retry, err_pct=$err_pct%)"
+            echo "→ retrying batch $current (attempt $next_retry, err_pct=$err_pct% missing=$missing)"
           else
             next=$(printf "%03d" $((10#$current + 1)))
             next_retry=0
-            echo "→ advancing from $current to $next (err_pct=$err_pct%)"
+            if [ "$retry_needed" = "true" ]; then
+              echo "::warning::batch $current still defective after $retry_count retries (err_pct=$err_pct% missing=$missing) — advancing anyway"
+            fi
+            echo "→ advancing from $current to $next (err_pct=$err_pct% missing=$missing)"
           fi
           if [ -f "batches-public/batch-${next}.csv" ]; then
+            # worker_count MUST be forwarded: without it the chain silently
+            # reverts to the prepare-step floor on every batch after the first.
             gh workflow run scrape.yml \
               -f batch_label="${next}" \
+              -f worker_count=${{ inputs.worker_count }} \
               -f max_age_weeks=${{ inputs.max_age_weeks }} \
               -f workers_per_runner=${{ inputs.workers_per_runner }} \
               -f retry_count=${next_retry}
