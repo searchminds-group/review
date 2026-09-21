@@ -653,5 +653,430 @@
     "source": "canada.csv",
     "places": 1934,
     "created_at": "2026-09-10T21:51:23"
+  },
+  "399": {
+    "source": "sverige.csv + gbg del 3.csv + GBG-del2.csv + GBG del2.csv + Skånelista del1.csv + Skånelista del2.csv + Skånelista del3.csv + Stockholm del 1.csv + Stockholm del2.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:12:05"
+  },
+  "400": {
+    "source": "sverige.csv + gbg del 3.csv + GBG-del2.csv + GBG del2.csv + Skånelista del1.csv + Skånelista del2.csv + Skånelista del3.csv + Stockholm del 1.csv + Stockholm del2.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:12:05"
+  },
+  "401": {
+    "source": "sverige.csv + gbg del 3.csv + GBG-del2.csv + GBG del2.csv + Skånelista del1.csv + Skånelista del2.csv + Skånelista del3.csv + Stockholm del 1.csv + Stockholm del2.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:12:05"
+  },
+  "402": {
+    "source": "sverige.csv + gbg del 3.csv + GBG-del2.csv + GBG del2.csv + Skånelista del1.csv + Skånelista del2.csv + Skånelista del3.csv + Stockholm del 1.csv + Stockholm del2.csv",
+    "places": 13800,
+    "created_at": "2026-09-21T08:12:05"
+  },
+  "403": {
+    "source": "norge.csv + Norge-Asker.csv + Oslo Baerum.csv + Oslo-del1.csv + Oslo-del2.csv + Oslo-del4.csv + Oslo-del5.csv + Oslo-del7.csv + Oslo-del8.csv + subtask_#2_(noarendal...noasker)(1).csv",
+    "places": 43512,
+    "created_at": "2026-09-21T08:13:56"
+  },
+  "404": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:29"
+  },
+  "405": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:30"
+  },
+  "406": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:30"
+  },
+  "407": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:30"
+  },
+  "408": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:30"
+  },
+  "409": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:30"
+  },
+  "410": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:31"
+  },
+  "411": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:31"
+  },
+  "412": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:31"
+  },
+  "413": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:31"
+  },
+  "414": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:31"
+  },
+  "415": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:32"
+  },
+  "416": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:32"
+  },
+  "417": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:32"
+  },
+  "418": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:32"
+  },
+  "419": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:32"
+  },
+  "420": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:33"
+  },
+  "421": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:33"
+  },
+  "422": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:33"
+  },
+  "423": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:33"
+  },
+  "424": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:34"
+  },
+  "425": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:34"
+  },
+  "426": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:34"
+  },
+  "427": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:34"
+  },
+  "428": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:34"
+  },
+  "429": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:34"
+  },
+  "430": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:35"
+  },
+  "431": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:35"
+  },
+  "432": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:35"
+  },
+  "433": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:35"
+  },
+  "434": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:35"
+  },
+  "435": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:36"
+  },
+  "436": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:36"
+  },
+  "437": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:36"
+  },
+  "438": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:36"
+  },
+  "439": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:36"
+  },
+  "440": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:37"
+  },
+  "441": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:37"
+  },
+  "442": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:37"
+  },
+  "443": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:37"
+  },
+  "444": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:37"
+  },
+  "445": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:38"
+  },
+  "446": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:38"
+  },
+  "447": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:38"
+  },
+  "448": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:38"
+  },
+  "449": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:38"
+  },
+  "450": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:39"
+  },
+  "451": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:39"
+  },
+  "452": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:39"
+  },
+  "453": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:39"
+  },
+  "454": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:39"
+  },
+  "455": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:39"
+  },
+  "456": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:40"
+  },
+  "457": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:40"
+  },
+  "458": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:40"
+  },
+  "459": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:40"
+  },
+  "460": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:40"
+  },
+  "461": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:16:41"
+  },
+  "462": {
+    "source": "spanien.csv",
+    "places": 21694,
+    "created_at": "2026-09-21T08:16:41"
+  },
+  "463": {
+    "source": "uk.csv + (gbenglandbedfordshire...gb.csv + (gbenglandsomerset).csv + (gbenglandstaffordshire).csv + _subtask_#1_(gbenglandflintshire...gben.csv + _subtask_#3_(gbenglandgreater_londonnw3.csv + England-County of Bristol.csv + England-west midlands.csv + gbenglanddurham...gbenglan.csv + gbenglandeast_sussex).csv + gbenglandoxfordshire...gbe.csv + gbenglandsouth_yorkshire).csv + Kopia av (gbenglandbedfordshire...gb.csv + Kopia av _subtask_#3_(gbenglandgreater_londonnw3.csv + London.csv + subtask_#1_(gbenglandberkshire...gbeng.csv + subtask_#1_(gbenglanddevon).csv + subtask_#1_(gbenglandhereford_and_worc.csv + subtask_#1_(gbenglandmerseyside...gben.csv + subtask_#2_(gbenglandbuckinghamshire).csv + subtask_#2_(gbenglandderbyshire).csv + subtask_#2_(gbenglanddorset.csv + subtask_#2_(gbenglandgreater_londonec1.csv + subtask_#2_(gbenglandkent).csv + subtask_#2_(gbenglandnorfolk).csv + subtask_#3_(gbenglandcambridgeshire.csv + subtask_#3_(gbenglandessex).csv + subtask_#3_(gbenglandlancashire...gben.csv + subtask_#4_(gbenglandcornwall...gbengl.csv + Subtask_#4_(gbenglandgreater_londontw1.csv + subtask_#4_(gbenglandlincolnshire).csv + subtask_#4_(gbenglandnorthamptonshire.csv + subtask_#5_(gbenglandcumbria...gbengla.csv + subtask_#5_(gbenglandgreater_mancheste.csv + subtask_#5_(gbenglandnottinghamshire).csv + subtask_#6_(gbenglandderbyshire).csv + subtask_#6_(gbenglandhampshire).csv + ubtask_#1_(gbenglandcumbria...gbengla.csv + ubtask_#3_(gbenglandnorth_yorkshire).csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:19:26"
+  },
+  "464": {
+    "source": "uk.csv + (gbenglandbedfordshire...gb.csv + (gbenglandsomerset).csv + (gbenglandstaffordshire).csv + _subtask_#1_(gbenglandflintshire...gben.csv + _subtask_#3_(gbenglandgreater_londonnw3.csv + England-County of Bristol.csv + England-west midlands.csv + gbenglanddurham...gbenglan.csv + gbenglandeast_sussex).csv + gbenglandoxfordshire...gbe.csv + gbenglandsouth_yorkshire).csv + Kopia av (gbenglandbedfordshire...gb.csv + Kopia av _subtask_#3_(gbenglandgreater_londonnw3.csv + London.csv + subtask_#1_(gbenglandberkshire...gbeng.csv + subtask_#1_(gbenglanddevon).csv + subtask_#1_(gbenglandhereford_and_worc.csv + subtask_#1_(gbenglandmerseyside...gben.csv + subtask_#2_(gbenglandbuckinghamshire).csv + subtask_#2_(gbenglandderbyshire).csv + subtask_#2_(gbenglanddorset.csv + subtask_#2_(gbenglandgreater_londonec1.csv + subtask_#2_(gbenglandkent).csv + subtask_#2_(gbenglandnorfolk).csv + subtask_#3_(gbenglandcambridgeshire.csv + subtask_#3_(gbenglandessex).csv + subtask_#3_(gbenglandlancashire...gben.csv + subtask_#4_(gbenglandcornwall...gbengl.csv + Subtask_#4_(gbenglandgreater_londontw1.csv + subtask_#4_(gbenglandlincolnshire).csv + subtask_#4_(gbenglandnorthamptonshire.csv + subtask_#5_(gbenglandcumbria...gbengla.csv + subtask_#5_(gbenglandgreater_mancheste.csv + subtask_#5_(gbenglandnottinghamshire).csv + subtask_#6_(gbenglandderbyshire).csv + subtask_#6_(gbenglandhampshire).csv + ubtask_#1_(gbenglandcumbria...gbengla.csv + ubtask_#3_(gbenglandnorth_yorkshire).csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:19:26"
+  },
+  "465": {
+    "source": "uk.csv + (gbenglandbedfordshire...gb.csv + (gbenglandsomerset).csv + (gbenglandstaffordshire).csv + _subtask_#1_(gbenglandflintshire...gben.csv + _subtask_#3_(gbenglandgreater_londonnw3.csv + England-County of Bristol.csv + England-west midlands.csv + gbenglanddurham...gbenglan.csv + gbenglandeast_sussex).csv + gbenglandoxfordshire...gbe.csv + gbenglandsouth_yorkshire).csv + Kopia av (gbenglandbedfordshire...gb.csv + Kopia av _subtask_#3_(gbenglandgreater_londonnw3.csv + London.csv + subtask_#1_(gbenglandberkshire...gbeng.csv + subtask_#1_(gbenglanddevon).csv + subtask_#1_(gbenglandhereford_and_worc.csv + subtask_#1_(gbenglandmerseyside...gben.csv + subtask_#2_(gbenglandbuckinghamshire).csv + subtask_#2_(gbenglandderbyshire).csv + subtask_#2_(gbenglanddorset.csv + subtask_#2_(gbenglandgreater_londonec1.csv + subtask_#2_(gbenglandkent).csv + subtask_#2_(gbenglandnorfolk).csv + subtask_#3_(gbenglandcambridgeshire.csv + subtask_#3_(gbenglandessex).csv + subtask_#3_(gbenglandlancashire...gben.csv + subtask_#4_(gbenglandcornwall...gbengl.csv + Subtask_#4_(gbenglandgreater_londontw1.csv + subtask_#4_(gbenglandlincolnshire).csv + subtask_#4_(gbenglandnorthamptonshire.csv + subtask_#5_(gbenglandcumbria...gbengla.csv + subtask_#5_(gbenglandgreater_mancheste.csv + subtask_#5_(gbenglandnottinghamshire).csv + subtask_#6_(gbenglandderbyshire).csv + subtask_#6_(gbenglandhampshire).csv + ubtask_#1_(gbenglandcumbria...gbengla.csv + ubtask_#3_(gbenglandnorth_yorkshire).csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:19:27"
+  },
+  "466": {
+    "source": "uk.csv + (gbenglandbedfordshire...gb.csv + (gbenglandsomerset).csv + (gbenglandstaffordshire).csv + _subtask_#1_(gbenglandflintshire...gben.csv + _subtask_#3_(gbenglandgreater_londonnw3.csv + England-County of Bristol.csv + England-west midlands.csv + gbenglanddurham...gbenglan.csv + gbenglandeast_sussex).csv + gbenglandoxfordshire...gbe.csv + gbenglandsouth_yorkshire).csv + Kopia av (gbenglandbedfordshire...gb.csv + Kopia av _subtask_#3_(gbenglandgreater_londonnw3.csv + London.csv + subtask_#1_(gbenglandberkshire...gbeng.csv + subtask_#1_(gbenglanddevon).csv + subtask_#1_(gbenglandhereford_and_worc.csv + subtask_#1_(gbenglandmerseyside...gben.csv + subtask_#2_(gbenglandbuckinghamshire).csv + subtask_#2_(gbenglandderbyshire).csv + subtask_#2_(gbenglanddorset.csv + subtask_#2_(gbenglandgreater_londonec1.csv + subtask_#2_(gbenglandkent).csv + subtask_#2_(gbenglandnorfolk).csv + subtask_#3_(gbenglandcambridgeshire.csv + subtask_#3_(gbenglandessex).csv + subtask_#3_(gbenglandlancashire...gben.csv + subtask_#4_(gbenglandcornwall...gbengl.csv + Subtask_#4_(gbenglandgreater_londontw1.csv + subtask_#4_(gbenglandlincolnshire).csv + subtask_#4_(gbenglandnorthamptonshire.csv + subtask_#5_(gbenglandcumbria...gbengla.csv + subtask_#5_(gbenglandgreater_mancheste.csv + subtask_#5_(gbenglandnottinghamshire).csv + subtask_#6_(gbenglandderbyshire).csv + subtask_#6_(gbenglandhampshire).csv + ubtask_#1_(gbenglandcumbria...gbengla.csv + ubtask_#3_(gbenglandnorth_yorkshire).csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:19:27"
+  },
+  "467": {
+    "source": "uk.csv + (gbenglandbedfordshire...gb.csv + (gbenglandsomerset).csv + (gbenglandstaffordshire).csv + _subtask_#1_(gbenglandflintshire...gben.csv + _subtask_#3_(gbenglandgreater_londonnw3.csv + England-County of Bristol.csv + England-west midlands.csv + gbenglanddurham...gbenglan.csv + gbenglandeast_sussex).csv + gbenglandoxfordshire...gbe.csv + gbenglandsouth_yorkshire).csv + Kopia av (gbenglandbedfordshire...gb.csv + Kopia av _subtask_#3_(gbenglandgreater_londonnw3.csv + London.csv + subtask_#1_(gbenglandberkshire...gbeng.csv + subtask_#1_(gbenglanddevon).csv + subtask_#1_(gbenglandhereford_and_worc.csv + subtask_#1_(gbenglandmerseyside...gben.csv + subtask_#2_(gbenglandbuckinghamshire).csv + subtask_#2_(gbenglandderbyshire).csv + subtask_#2_(gbenglanddorset.csv + subtask_#2_(gbenglandgreater_londonec1.csv + subtask_#2_(gbenglandkent).csv + subtask_#2_(gbenglandnorfolk).csv + subtask_#3_(gbenglandcambridgeshire.csv + subtask_#3_(gbenglandessex).csv + subtask_#3_(gbenglandlancashire...gben.csv + subtask_#4_(gbenglandcornwall...gbengl.csv + Subtask_#4_(gbenglandgreater_londontw1.csv + subtask_#4_(gbenglandlincolnshire).csv + subtask_#4_(gbenglandnorthamptonshire.csv + subtask_#5_(gbenglandcumbria...gbengla.csv + subtask_#5_(gbenglandgreater_mancheste.csv + subtask_#5_(gbenglandnottinghamshire).csv + subtask_#6_(gbenglandderbyshire).csv + subtask_#6_(gbenglandhampshire).csv + ubtask_#1_(gbenglandcumbria...gbengla.csv + ubtask_#3_(gbenglandnorth_yorkshire).csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:19:27"
+  },
+  "468": {
+    "source": "uk.csv + (gbenglandbedfordshire...gb.csv + (gbenglandsomerset).csv + (gbenglandstaffordshire).csv + _subtask_#1_(gbenglandflintshire...gben.csv + _subtask_#3_(gbenglandgreater_londonnw3.csv + England-County of Bristol.csv + England-west midlands.csv + gbenglanddurham...gbenglan.csv + gbenglandeast_sussex).csv + gbenglandoxfordshire...gbe.csv + gbenglandsouth_yorkshire).csv + Kopia av (gbenglandbedfordshire...gb.csv + Kopia av _subtask_#3_(gbenglandgreater_londonnw3.csv + London.csv + subtask_#1_(gbenglandberkshire...gbeng.csv + subtask_#1_(gbenglanddevon).csv + subtask_#1_(gbenglandhereford_and_worc.csv + subtask_#1_(gbenglandmerseyside...gben.csv + subtask_#2_(gbenglandbuckinghamshire).csv + subtask_#2_(gbenglandderbyshire).csv + subtask_#2_(gbenglanddorset.csv + subtask_#2_(gbenglandgreater_londonec1.csv + subtask_#2_(gbenglandkent).csv + subtask_#2_(gbenglandnorfolk).csv + subtask_#3_(gbenglandcambridgeshire.csv + subtask_#3_(gbenglandessex).csv + subtask_#3_(gbenglandlancashire...gben.csv + subtask_#4_(gbenglandcornwall...gbengl.csv + Subtask_#4_(gbenglandgreater_londontw1.csv + subtask_#4_(gbenglandlincolnshire).csv + subtask_#4_(gbenglandnorthamptonshire.csv + subtask_#5_(gbenglandcumbria...gbengla.csv + subtask_#5_(gbenglandgreater_mancheste.csv + subtask_#5_(gbenglandnottinghamshire).csv + subtask_#6_(gbenglandderbyshire).csv + subtask_#6_(gbenglandhampshire).csv + ubtask_#1_(gbenglandcumbria...gbengla.csv + ubtask_#3_(gbenglandnorth_yorkshire).csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:19:27"
+  },
+  "469": {
+    "source": "uk.csv + (gbenglandbedfordshire...gb.csv + (gbenglandsomerset).csv + (gbenglandstaffordshire).csv + _subtask_#1_(gbenglandflintshire...gben.csv + _subtask_#3_(gbenglandgreater_londonnw3.csv + England-County of Bristol.csv + England-west midlands.csv + gbenglanddurham...gbenglan.csv + gbenglandeast_sussex).csv + gbenglandoxfordshire...gbe.csv + gbenglandsouth_yorkshire).csv + Kopia av (gbenglandbedfordshire...gb.csv + Kopia av _subtask_#3_(gbenglandgreater_londonnw3.csv + London.csv + subtask_#1_(gbenglandberkshire...gbeng.csv + subtask_#1_(gbenglanddevon).csv + subtask_#1_(gbenglandhereford_and_worc.csv + subtask_#1_(gbenglandmerseyside...gben.csv + subtask_#2_(gbenglandbuckinghamshire).csv + subtask_#2_(gbenglandderbyshire).csv + subtask_#2_(gbenglanddorset.csv + subtask_#2_(gbenglandgreater_londonec1.csv + subtask_#2_(gbenglandkent).csv + subtask_#2_(gbenglandnorfolk).csv + subtask_#3_(gbenglandcambridgeshire.csv + subtask_#3_(gbenglandessex).csv + subtask_#3_(gbenglandlancashire...gben.csv + subtask_#4_(gbenglandcornwall...gbengl.csv + Subtask_#4_(gbenglandgreater_londontw1.csv + subtask_#4_(gbenglandlincolnshire).csv + subtask_#4_(gbenglandnorthamptonshire.csv + subtask_#5_(gbenglandcumbria...gbengla.csv + subtask_#5_(gbenglandgreater_mancheste.csv + subtask_#5_(gbenglandnottinghamshire).csv + subtask_#6_(gbenglandderbyshire).csv + subtask_#6_(gbenglandhampshire).csv + ubtask_#1_(gbenglandcumbria...gbengla.csv + ubtask_#3_(gbenglandnorth_yorkshire).csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:19:27"
+  },
+  "470": {
+    "source": "uk.csv + (gbenglandbedfordshire...gb.csv + (gbenglandsomerset).csv + (gbenglandstaffordshire).csv + _subtask_#1_(gbenglandflintshire...gben.csv + _subtask_#3_(gbenglandgreater_londonnw3.csv + England-County of Bristol.csv + England-west midlands.csv + gbenglanddurham...gbenglan.csv + gbenglandeast_sussex).csv + gbenglandoxfordshire...gbe.csv + gbenglandsouth_yorkshire).csv + Kopia av (gbenglandbedfordshire...gb.csv + Kopia av _subtask_#3_(gbenglandgreater_londonnw3.csv + London.csv + subtask_#1_(gbenglandberkshire...gbeng.csv + subtask_#1_(gbenglanddevon).csv + subtask_#1_(gbenglandhereford_and_worc.csv + subtask_#1_(gbenglandmerseyside...gben.csv + subtask_#2_(gbenglandbuckinghamshire).csv + subtask_#2_(gbenglandderbyshire).csv + subtask_#2_(gbenglanddorset.csv + subtask_#2_(gbenglandgreater_londonec1.csv + subtask_#2_(gbenglandkent).csv + subtask_#2_(gbenglandnorfolk).csv + subtask_#3_(gbenglandcambridgeshire.csv + subtask_#3_(gbenglandessex).csv + subtask_#3_(gbenglandlancashire...gben.csv + subtask_#4_(gbenglandcornwall...gbengl.csv + Subtask_#4_(gbenglandgreater_londontw1.csv + subtask_#4_(gbenglandlincolnshire).csv + subtask_#4_(gbenglandnorthamptonshire.csv + subtask_#5_(gbenglandcumbria...gbengla.csv + subtask_#5_(gbenglandgreater_mancheste.csv + subtask_#5_(gbenglandnottinghamshire).csv + subtask_#6_(gbenglandderbyshire).csv + subtask_#6_(gbenglandhampshire).csv + ubtask_#1_(gbenglandcumbria...gbengla.csv + ubtask_#3_(gbenglandnorth_yorkshire).csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:19:27"
+  },
+  "471": {
+    "source": "uk.csv + (gbenglandbedfordshire...gb.csv + (gbenglandsomerset).csv + (gbenglandstaffordshire).csv + _subtask_#1_(gbenglandflintshire...gben.csv + _subtask_#3_(gbenglandgreater_londonnw3.csv + England-County of Bristol.csv + England-west midlands.csv + gbenglanddurham...gbenglan.csv + gbenglandeast_sussex).csv + gbenglandoxfordshire...gbe.csv + gbenglandsouth_yorkshire).csv + Kopia av (gbenglandbedfordshire...gb.csv + Kopia av _subtask_#3_(gbenglandgreater_londonnw3.csv + London.csv + subtask_#1_(gbenglandberkshire...gbeng.csv + subtask_#1_(gbenglanddevon).csv + subtask_#1_(gbenglandhereford_and_worc.csv + subtask_#1_(gbenglandmerseyside...gben.csv + subtask_#2_(gbenglandbuckinghamshire).csv + subtask_#2_(gbenglandderbyshire).csv + subtask_#2_(gbenglanddorset.csv + subtask_#2_(gbenglandgreater_londonec1.csv + subtask_#2_(gbenglandkent).csv + subtask_#2_(gbenglandnorfolk).csv + subtask_#3_(gbenglandcambridgeshire.csv + subtask_#3_(gbenglandessex).csv + subtask_#3_(gbenglandlancashire...gben.csv + subtask_#4_(gbenglandcornwall...gbengl.csv + Subtask_#4_(gbenglandgreater_londontw1.csv + subtask_#4_(gbenglandlincolnshire).csv + subtask_#4_(gbenglandnorthamptonshire.csv + subtask_#5_(gbenglandcumbria...gbengla.csv + subtask_#5_(gbenglandgreater_mancheste.csv + subtask_#5_(gbenglandnottinghamshire).csv + subtask_#6_(gbenglandderbyshire).csv + subtask_#6_(gbenglandhampshire).csv + ubtask_#1_(gbenglandcumbria...gbengla.csv + ubtask_#3_(gbenglandnorth_yorkshire).csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:19:28"
+  },
+  "472": {
+    "source": "uk.csv + (gbenglandbedfordshire...gb.csv + (gbenglandsomerset).csv + (gbenglandstaffordshire).csv + _subtask_#1_(gbenglandflintshire...gben.csv + _subtask_#3_(gbenglandgreater_londonnw3.csv + England-County of Bristol.csv + England-west midlands.csv + gbenglanddurham...gbenglan.csv + gbenglandeast_sussex).csv + gbenglandoxfordshire...gbe.csv + gbenglandsouth_yorkshire).csv + Kopia av (gbenglandbedfordshire...gb.csv + Kopia av _subtask_#3_(gbenglandgreater_londonnw3.csv + London.csv + subtask_#1_(gbenglandberkshire...gbeng.csv + subtask_#1_(gbenglanddevon).csv + subtask_#1_(gbenglandhereford_and_worc.csv + subtask_#1_(gbenglandmerseyside...gben.csv + subtask_#2_(gbenglandbuckinghamshire).csv + subtask_#2_(gbenglandderbyshire).csv + subtask_#2_(gbenglanddorset.csv + subtask_#2_(gbenglandgreater_londonec1.csv + subtask_#2_(gbenglandkent).csv + subtask_#2_(gbenglandnorfolk).csv + subtask_#3_(gbenglandcambridgeshire.csv + subtask_#3_(gbenglandessex).csv + subtask_#3_(gbenglandlancashire...gben.csv + subtask_#4_(gbenglandcornwall...gbengl.csv + Subtask_#4_(gbenglandgreater_londontw1.csv + subtask_#4_(gbenglandlincolnshire).csv + subtask_#4_(gbenglandnorthamptonshire.csv + subtask_#5_(gbenglandcumbria...gbengla.csv + subtask_#5_(gbenglandgreater_mancheste.csv + subtask_#5_(gbenglandnottinghamshire).csv + subtask_#6_(gbenglandderbyshire).csv + subtask_#6_(gbenglandhampshire).csv + ubtask_#1_(gbenglandcumbria...gbengla.csv + ubtask_#3_(gbenglandnorth_yorkshire).csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:19:28"
+  },
+  "473": {
+    "source": "uk.csv + (gbenglandbedfordshire...gb.csv + (gbenglandsomerset).csv + (gbenglandstaffordshire).csv + _subtask_#1_(gbenglandflintshire...gben.csv + _subtask_#3_(gbenglandgreater_londonnw3.csv + England-County of Bristol.csv + England-west midlands.csv + gbenglanddurham...gbenglan.csv + gbenglandeast_sussex).csv + gbenglandoxfordshire...gbe.csv + gbenglandsouth_yorkshire).csv + Kopia av (gbenglandbedfordshire...gb.csv + Kopia av _subtask_#3_(gbenglandgreater_londonnw3.csv + London.csv + subtask_#1_(gbenglandberkshire...gbeng.csv + subtask_#1_(gbenglanddevon).csv + subtask_#1_(gbenglandhereford_and_worc.csv + subtask_#1_(gbenglandmerseyside...gben.csv + subtask_#2_(gbenglandbuckinghamshire).csv + subtask_#2_(gbenglandderbyshire).csv + subtask_#2_(gbenglanddorset.csv + subtask_#2_(gbenglandgreater_londonec1.csv + subtask_#2_(gbenglandkent).csv + subtask_#2_(gbenglandnorfolk).csv + subtask_#3_(gbenglandcambridgeshire.csv + subtask_#3_(gbenglandessex).csv + subtask_#3_(gbenglandlancashire...gben.csv + subtask_#4_(gbenglandcornwall...gbengl.csv + Subtask_#4_(gbenglandgreater_londontw1.csv + subtask_#4_(gbenglandlincolnshire).csv + subtask_#4_(gbenglandnorthamptonshire.csv + subtask_#5_(gbenglandcumbria...gbengla.csv + subtask_#5_(gbenglandgreater_mancheste.csv + subtask_#5_(gbenglandnottinghamshire).csv + subtask_#6_(gbenglandderbyshire).csv + subtask_#6_(gbenglandhampshire).csv + ubtask_#1_(gbenglandcumbria...gbengla.csv + ubtask_#3_(gbenglandnorth_yorkshire).csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:19:28"
+  },
+  "474": {
+    "source": "uk.csv + (gbenglandbedfordshire...gb.csv + (gbenglandsomerset).csv + (gbenglandstaffordshire).csv + _subtask_#1_(gbenglandflintshire...gben.csv + _subtask_#3_(gbenglandgreater_londonnw3.csv + England-County of Bristol.csv + England-west midlands.csv + gbenglanddurham...gbenglan.csv + gbenglandeast_sussex).csv + gbenglandoxfordshire...gbe.csv + gbenglandsouth_yorkshire).csv + Kopia av (gbenglandbedfordshire...gb.csv + Kopia av _subtask_#3_(gbenglandgreater_londonnw3.csv + London.csv + subtask_#1_(gbenglandberkshire...gbeng.csv + subtask_#1_(gbenglanddevon).csv + subtask_#1_(gbenglandhereford_and_worc.csv + subtask_#1_(gbenglandmerseyside...gben.csv + subtask_#2_(gbenglandbuckinghamshire).csv + subtask_#2_(gbenglandderbyshire).csv + subtask_#2_(gbenglanddorset.csv + subtask_#2_(gbenglandgreater_londonec1.csv + subtask_#2_(gbenglandkent).csv + subtask_#2_(gbenglandnorfolk).csv + subtask_#3_(gbenglandcambridgeshire.csv + subtask_#3_(gbenglandessex).csv + subtask_#3_(gbenglandlancashire...gben.csv + subtask_#4_(gbenglandcornwall...gbengl.csv + Subtask_#4_(gbenglandgreater_londontw1.csv + subtask_#4_(gbenglandlincolnshire).csv + subtask_#4_(gbenglandnorthamptonshire.csv + subtask_#5_(gbenglandcumbria...gbengla.csv + subtask_#5_(gbenglandgreater_mancheste.csv + subtask_#5_(gbenglandnottinghamshire).csv + subtask_#6_(gbenglandderbyshire).csv + subtask_#6_(gbenglandhampshire).csv + ubtask_#1_(gbenglandcumbria...gbengla.csv + ubtask_#3_(gbenglandnorth_yorkshire).csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:19:28"
+  },
+  "475": {
+    "source": "uk.csv + (gbenglandbedfordshire...gb.csv + (gbenglandsomerset).csv + (gbenglandstaffordshire).csv + _subtask_#1_(gbenglandflintshire...gben.csv + _subtask_#3_(gbenglandgreater_londonnw3.csv + England-County of Bristol.csv + England-west midlands.csv + gbenglanddurham...gbenglan.csv + gbenglandeast_sussex).csv + gbenglandoxfordshire...gbe.csv + gbenglandsouth_yorkshire).csv + Kopia av (gbenglandbedfordshire...gb.csv + Kopia av _subtask_#3_(gbenglandgreater_londonnw3.csv + London.csv + subtask_#1_(gbenglandberkshire...gbeng.csv + subtask_#1_(gbenglanddevon).csv + subtask_#1_(gbenglandhereford_and_worc.csv + subtask_#1_(gbenglandmerseyside...gben.csv + subtask_#2_(gbenglandbuckinghamshire).csv + subtask_#2_(gbenglandderbyshire).csv + subtask_#2_(gbenglanddorset.csv + subtask_#2_(gbenglandgreater_londonec1.csv + subtask_#2_(gbenglandkent).csv + subtask_#2_(gbenglandnorfolk).csv + subtask_#3_(gbenglandcambridgeshire.csv + subtask_#3_(gbenglandessex).csv + subtask_#3_(gbenglandlancashire...gben.csv + subtask_#4_(gbenglandcornwall...gbengl.csv + Subtask_#4_(gbenglandgreater_londontw1.csv + subtask_#4_(gbenglandlincolnshire).csv + subtask_#4_(gbenglandnorthamptonshire.csv + subtask_#5_(gbenglandcumbria...gbengla.csv + subtask_#5_(gbenglandgreater_mancheste.csv + subtask_#5_(gbenglandnottinghamshire).csv + subtask_#6_(gbenglandderbyshire).csv + subtask_#6_(gbenglandhampshire).csv + ubtask_#1_(gbenglandcumbria...gbengla.csv + ubtask_#3_(gbenglandnorth_yorkshire).csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:19:28"
+  },
+  "476": {
+    "source": "uk.csv + (gbenglandbedfordshire...gb.csv + (gbenglandsomerset).csv + (gbenglandstaffordshire).csv + _subtask_#1_(gbenglandflintshire...gben.csv + _subtask_#3_(gbenglandgreater_londonnw3.csv + England-County of Bristol.csv + England-west midlands.csv + gbenglanddurham...gbenglan.csv + gbenglandeast_sussex).csv + gbenglandoxfordshire...gbe.csv + gbenglandsouth_yorkshire).csv + Kopia av (gbenglandbedfordshire...gb.csv + Kopia av _subtask_#3_(gbenglandgreater_londonnw3.csv + London.csv + subtask_#1_(gbenglandberkshire...gbeng.csv + subtask_#1_(gbenglanddevon).csv + subtask_#1_(gbenglandhereford_and_worc.csv + subtask_#1_(gbenglandmerseyside...gben.csv + subtask_#2_(gbenglandbuckinghamshire).csv + subtask_#2_(gbenglandderbyshire).csv + subtask_#2_(gbenglanddorset.csv + subtask_#2_(gbenglandgreater_londonec1.csv + subtask_#2_(gbenglandkent).csv + subtask_#2_(gbenglandnorfolk).csv + subtask_#3_(gbenglandcambridgeshire.csv + subtask_#3_(gbenglandessex).csv + subtask_#3_(gbenglandlancashire...gben.csv + subtask_#4_(gbenglandcornwall...gbengl.csv + Subtask_#4_(gbenglandgreater_londontw1.csv + subtask_#4_(gbenglandlincolnshire).csv + subtask_#4_(gbenglandnorthamptonshire.csv + subtask_#5_(gbenglandcumbria...gbengla.csv + subtask_#5_(gbenglandgreater_mancheste.csv + subtask_#5_(gbenglandnottinghamshire).csv + subtask_#6_(gbenglandderbyshire).csv + subtask_#6_(gbenglandhampshire).csv + ubtask_#1_(gbenglandcumbria...gbengla.csv + ubtask_#3_(gbenglandnorth_yorkshire).csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:19:29"
+  },
+  "477": {
+    "source": "uk.csv + (gbenglandbedfordshire...gb.csv + (gbenglandsomerset).csv + (gbenglandstaffordshire).csv + _subtask_#1_(gbenglandflintshire...gben.csv + _subtask_#3_(gbenglandgreater_londonnw3.csv + England-County of Bristol.csv + England-west midlands.csv + gbenglanddurham...gbenglan.csv + gbenglandeast_sussex).csv + gbenglandoxfordshire...gbe.csv + gbenglandsouth_yorkshire).csv + Kopia av (gbenglandbedfordshire...gb.csv + Kopia av _subtask_#3_(gbenglandgreater_londonnw3.csv + London.csv + subtask_#1_(gbenglandberkshire...gbeng.csv + subtask_#1_(gbenglanddevon).csv + subtask_#1_(gbenglandhereford_and_worc.csv + subtask_#1_(gbenglandmerseyside...gben.csv + subtask_#2_(gbenglandbuckinghamshire).csv + subtask_#2_(gbenglandderbyshire).csv + subtask_#2_(gbenglanddorset.csv + subtask_#2_(gbenglandgreater_londonec1.csv + subtask_#2_(gbenglandkent).csv + subtask_#2_(gbenglandnorfolk).csv + subtask_#3_(gbenglandcambridgeshire.csv + subtask_#3_(gbenglandessex).csv + subtask_#3_(gbenglandlancashire...gben.csv + subtask_#4_(gbenglandcornwall...gbengl.csv + Subtask_#4_(gbenglandgreater_londontw1.csv + subtask_#4_(gbenglandlincolnshire).csv + subtask_#4_(gbenglandnorthamptonshire.csv + subtask_#5_(gbenglandcumbria...gbengla.csv + subtask_#5_(gbenglandgreater_mancheste.csv + subtask_#5_(gbenglandnottinghamshire).csv + subtask_#6_(gbenglandderbyshire).csv + subtask_#6_(gbenglandhampshire).csv + ubtask_#1_(gbenglandcumbria...gbengla.csv + ubtask_#3_(gbenglandnorth_yorkshire).csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:19:29"
+  },
+  "478": {
+    "source": "uk.csv + (gbenglandbedfordshire...gb.csv + (gbenglandsomerset).csv + (gbenglandstaffordshire).csv + _subtask_#1_(gbenglandflintshire...gben.csv + _subtask_#3_(gbenglandgreater_londonnw3.csv + England-County of Bristol.csv + England-west midlands.csv + gbenglanddurham...gbenglan.csv + gbenglandeast_sussex).csv + gbenglandoxfordshire...gbe.csv + gbenglandsouth_yorkshire).csv + Kopia av (gbenglandbedfordshire...gb.csv + Kopia av _subtask_#3_(gbenglandgreater_londonnw3.csv + London.csv + subtask_#1_(gbenglandberkshire...gbeng.csv + subtask_#1_(gbenglanddevon).csv + subtask_#1_(gbenglandhereford_and_worc.csv + subtask_#1_(gbenglandmerseyside...gben.csv + subtask_#2_(gbenglandbuckinghamshire).csv + subtask_#2_(gbenglandderbyshire).csv + subtask_#2_(gbenglanddorset.csv + subtask_#2_(gbenglandgreater_londonec1.csv + subtask_#2_(gbenglandkent).csv + subtask_#2_(gbenglandnorfolk).csv + subtask_#3_(gbenglandcambridgeshire.csv + subtask_#3_(gbenglandessex).csv + subtask_#3_(gbenglandlancashire...gben.csv + subtask_#4_(gbenglandcornwall...gbengl.csv + Subtask_#4_(gbenglandgreater_londontw1.csv + subtask_#4_(gbenglandlincolnshire).csv + subtask_#4_(gbenglandnorthamptonshire.csv + subtask_#5_(gbenglandcumbria...gbengla.csv + subtask_#5_(gbenglandgreater_mancheste.csv + subtask_#5_(gbenglandnottinghamshire).csv + subtask_#6_(gbenglandderbyshire).csv + subtask_#6_(gbenglandhampshire).csv + ubtask_#1_(gbenglandcumbria...gbengla.csv + ubtask_#3_(gbenglandnorth_yorkshire).csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:19:29"
+  },
+  "479": {
+    "source": "uk.csv + (gbenglandbedfordshire...gb.csv + (gbenglandsomerset).csv + (gbenglandstaffordshire).csv + _subtask_#1_(gbenglandflintshire...gben.csv + _subtask_#3_(gbenglandgreater_londonnw3.csv + England-County of Bristol.csv + England-west midlands.csv + gbenglanddurham...gbenglan.csv + gbenglandeast_sussex).csv + gbenglandoxfordshire...gbe.csv + gbenglandsouth_yorkshire).csv + Kopia av (gbenglandbedfordshire...gb.csv + Kopia av _subtask_#3_(gbenglandgreater_londonnw3.csv + London.csv + subtask_#1_(gbenglandberkshire...gbeng.csv + subtask_#1_(gbenglanddevon).csv + subtask_#1_(gbenglandhereford_and_worc.csv + subtask_#1_(gbenglandmerseyside...gben.csv + subtask_#2_(gbenglandbuckinghamshire).csv + subtask_#2_(gbenglandderbyshire).csv + subtask_#2_(gbenglanddorset.csv + subtask_#2_(gbenglandgreater_londonec1.csv + subtask_#2_(gbenglandkent).csv + subtask_#2_(gbenglandnorfolk).csv + subtask_#3_(gbenglandcambridgeshire.csv + subtask_#3_(gbenglandessex).csv + subtask_#3_(gbenglandlancashire...gben.csv + subtask_#4_(gbenglandcornwall...gbengl.csv + Subtask_#4_(gbenglandgreater_londontw1.csv + subtask_#4_(gbenglandlincolnshire).csv + subtask_#4_(gbenglandnorthamptonshire.csv + subtask_#5_(gbenglandcumbria...gbengla.csv + subtask_#5_(gbenglandgreater_mancheste.csv + subtask_#5_(gbenglandnottinghamshire).csv + subtask_#6_(gbenglandderbyshire).csv + subtask_#6_(gbenglandhampshire).csv + ubtask_#1_(gbenglandcumbria...gbengla.csv + ubtask_#3_(gbenglandnorth_yorkshire).csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:19:29"
+  },
+  "480": {
+    "source": "uk.csv + (gbenglandbedfordshire...gb.csv + (gbenglandsomerset).csv + (gbenglandstaffordshire).csv + _subtask_#1_(gbenglandflintshire...gben.csv + _subtask_#3_(gbenglandgreater_londonnw3.csv + England-County of Bristol.csv + England-west midlands.csv + gbenglanddurham...gbenglan.csv + gbenglandeast_sussex).csv + gbenglandoxfordshire...gbe.csv + gbenglandsouth_yorkshire).csv + Kopia av (gbenglandbedfordshire...gb.csv + Kopia av _subtask_#3_(gbenglandgreater_londonnw3.csv + London.csv + subtask_#1_(gbenglandberkshire...gbeng.csv + subtask_#1_(gbenglanddevon).csv + subtask_#1_(gbenglandhereford_and_worc.csv + subtask_#1_(gbenglandmerseyside...gben.csv + subtask_#2_(gbenglandbuckinghamshire).csv + subtask_#2_(gbenglandderbyshire).csv + subtask_#2_(gbenglanddorset.csv + subtask_#2_(gbenglandgreater_londonec1.csv + subtask_#2_(gbenglandkent).csv + subtask_#2_(gbenglandnorfolk).csv + subtask_#3_(gbenglandcambridgeshire.csv + subtask_#3_(gbenglandessex).csv + subtask_#3_(gbenglandlancashire...gben.csv + subtask_#4_(gbenglandcornwall...gbengl.csv + Subtask_#4_(gbenglandgreater_londontw1.csv + subtask_#4_(gbenglandlincolnshire).csv + subtask_#4_(gbenglandnorthamptonshire.csv + subtask_#5_(gbenglandcumbria...gbengla.csv + subtask_#5_(gbenglandgreater_mancheste.csv + subtask_#5_(gbenglandnottinghamshire).csv + subtask_#6_(gbenglandderbyshire).csv + subtask_#6_(gbenglandhampshire).csv + ubtask_#1_(gbenglandcumbria...gbengla.csv + ubtask_#3_(gbenglandnorth_yorkshire).csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:19:29"
+  },
+  "481": {
+    "source": "uk.csv + (gbenglandbedfordshire...gb.csv + (gbenglandsomerset).csv + (gbenglandstaffordshire).csv + _subtask_#1_(gbenglandflintshire...gben.csv + _subtask_#3_(gbenglandgreater_londonnw3.csv + England-County of Bristol.csv + England-west midlands.csv + gbenglanddurham...gbenglan.csv + gbenglandeast_sussex).csv + gbenglandoxfordshire...gbe.csv + gbenglandsouth_yorkshire).csv + Kopia av (gbenglandbedfordshire...gb.csv + Kopia av _subtask_#3_(gbenglandgreater_londonnw3.csv + London.csv + subtask_#1_(gbenglandberkshire...gbeng.csv + subtask_#1_(gbenglanddevon).csv + subtask_#1_(gbenglandhereford_and_worc.csv + subtask_#1_(gbenglandmerseyside...gben.csv + subtask_#2_(gbenglandbuckinghamshire).csv + subtask_#2_(gbenglandderbyshire).csv + subtask_#2_(gbenglanddorset.csv + subtask_#2_(gbenglandgreater_londonec1.csv + subtask_#2_(gbenglandkent).csv + subtask_#2_(gbenglandnorfolk).csv + subtask_#3_(gbenglandcambridgeshire.csv + subtask_#3_(gbenglandessex).csv + subtask_#3_(gbenglandlancashire...gben.csv + subtask_#4_(gbenglandcornwall...gbengl.csv + Subtask_#4_(gbenglandgreater_londontw1.csv + subtask_#4_(gbenglandlincolnshire).csv + subtask_#4_(gbenglandnorthamptonshire.csv + subtask_#5_(gbenglandcumbria...gbengla.csv + subtask_#5_(gbenglandgreater_mancheste.csv + subtask_#5_(gbenglandnottinghamshire).csv + subtask_#6_(gbenglandderbyshire).csv + subtask_#6_(gbenglandhampshire).csv + ubtask_#1_(gbenglandcumbria...gbengla.csv + ubtask_#3_(gbenglandnorth_yorkshire).csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:19:30"
+  },
+  "482": {
+    "source": "uk.csv + (gbenglandbedfordshire...gb.csv + (gbenglandsomerset).csv + (gbenglandstaffordshire).csv + _subtask_#1_(gbenglandflintshire...gben.csv + _subtask_#3_(gbenglandgreater_londonnw3.csv + England-County of Bristol.csv + England-west midlands.csv + gbenglanddurham...gbenglan.csv + gbenglandeast_sussex).csv + gbenglandoxfordshire...gbe.csv + gbenglandsouth_yorkshire).csv + Kopia av (gbenglandbedfordshire...gb.csv + Kopia av _subtask_#3_(gbenglandgreater_londonnw3.csv + London.csv + subtask_#1_(gbenglandberkshire...gbeng.csv + subtask_#1_(gbenglanddevon).csv + subtask_#1_(gbenglandhereford_and_worc.csv + subtask_#1_(gbenglandmerseyside...gben.csv + subtask_#2_(gbenglandbuckinghamshire).csv + subtask_#2_(gbenglandderbyshire).csv + subtask_#2_(gbenglanddorset.csv + subtask_#2_(gbenglandgreater_londonec1.csv + subtask_#2_(gbenglandkent).csv + subtask_#2_(gbenglandnorfolk).csv + subtask_#3_(gbenglandcambridgeshire.csv + subtask_#3_(gbenglandessex).csv + subtask_#3_(gbenglandlancashire...gben.csv + subtask_#4_(gbenglandcornwall...gbengl.csv + Subtask_#4_(gbenglandgreater_londontw1.csv + subtask_#4_(gbenglandlincolnshire).csv + subtask_#4_(gbenglandnorthamptonshire.csv + subtask_#5_(gbenglandcumbria...gbengla.csv + subtask_#5_(gbenglandgreater_mancheste.csv + subtask_#5_(gbenglandnottinghamshire).csv + subtask_#6_(gbenglandderbyshire).csv + subtask_#6_(gbenglandhampshire).csv + ubtask_#1_(gbenglandcumbria...gbengla.csv + ubtask_#3_(gbenglandnorth_yorkshire).csv",
+    "places": 90000,
+    "created_at": "2026-09-21T08:19:30"
+  },
+  "483": {
+    "source": "uk.csv + (gbenglandbedfordshire...gb.csv + (gbenglandsomerset).csv + (gbenglandstaffordshire).csv + _subtask_#1_(gbenglandflintshire...gben.csv + _subtask_#3_(gbenglandgreater_londonnw3.csv + England-County of Bristol.csv + England-west midlands.csv + gbenglanddurham...gbenglan.csv + gbenglandeast_sussex).csv + gbenglandoxfordshire...gbe.csv + gbenglandsouth_yorkshire).csv + Kopia av (gbenglandbedfordshire...gb.csv + Kopia av _subtask_#3_(gbenglandgreater_londonnw3.csv + London.csv + subtask_#1_(gbenglandberkshire...gbeng.csv + subtask_#1_(gbenglanddevon).csv + subtask_#1_(gbenglandhereford_and_worc.csv + subtask_#1_(gbenglandmerseyside...gben.csv + subtask_#2_(gbenglandbuckinghamshire).csv + subtask_#2_(gbenglandderbyshire).csv + subtask_#2_(gbenglanddorset.csv + subtask_#2_(gbenglandgreater_londonec1.csv + subtask_#2_(gbenglandkent).csv + subtask_#2_(gbenglandnorfolk).csv + subtask_#3_(gbenglandcambridgeshire.csv + subtask_#3_(gbenglandessex).csv + subtask_#3_(gbenglandlancashire...gben.csv + subtask_#4_(gbenglandcornwall...gbengl.csv + Subtask_#4_(gbenglandgreater_londontw1.csv + subtask_#4_(gbenglandlincolnshire).csv + subtask_#4_(gbenglandnorthamptonshire.csv + subtask_#5_(gbenglandcumbria...gbengla.csv + subtask_#5_(gbenglandgreater_mancheste.csv + subtask_#5_(gbenglandnottinghamshire).csv + subtask_#6_(gbenglandderbyshire).csv + subtask_#6_(gbenglandhampshire).csv + ubtask_#1_(gbenglandcumbria...gbengla.csv + ubtask_#3_(gbenglandnorth_yorkshire).csv",
+    "places": 58109,
+    "created_at": "2026-09-21T08:19:30"
   }
 }
