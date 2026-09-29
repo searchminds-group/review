@@ -1513,5 +1513,340 @@
     "source": "sverige.csv",
     "places": 13800,
     "created_at": "2026-09-28T21:23:00"
+  },
+  "571": {
+    "source": "norge.csv",
+    "places": 43512,
+    "created_at": "2026-09-29T09:30:54"
+  },
+  "572": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:33:42"
+  },
+  "573": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:33:42"
+  },
+  "574": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:33:42"
+  },
+  "575": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:33:42"
+  },
+  "576": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:33:42"
+  },
+  "577": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:33:42"
+  },
+  "578": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:33:42"
+  },
+  "579": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:33:43"
+  },
+  "580": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:33:43"
+  },
+  "581": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:33:43"
+  },
+  "582": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:33:43"
+  },
+  "583": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:33:43"
+  },
+  "584": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:33:43"
+  },
+  "585": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:33:44"
+  },
+  "586": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:33:44"
+  },
+  "587": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:33:44"
+  },
+  "588": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:33:44"
+  },
+  "589": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:33:44"
+  },
+  "590": {
+    "source": "spanien.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:33:44"
+  },
+  "591": {
+    "source": "spanien.csv",
+    "places": 53047,
+    "created_at": "2026-09-29T09:33:44"
+  },
+  "592": {
+    "source": "uk.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:36:18"
+  },
+  "593": {
+    "source": "uk.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:36:18"
+  },
+  "594": {
+    "source": "uk.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:36:18"
+  },
+  "595": {
+    "source": "uk.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:36:18"
+  },
+  "596": {
+    "source": "uk.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:36:19"
+  },
+  "597": {
+    "source": "uk.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:36:19"
+  },
+  "598": {
+    "source": "uk.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:36:19"
+  },
+  "599": {
+    "source": "uk.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:36:19"
+  },
+  "600": {
+    "source": "uk.csv",
+    "places": 86205,
+    "created_at": "2026-09-29T09:36:19"
+  },
+  "601": {
+    "source": "new_zealand.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:38:53"
+  },
+  "602": {
+    "source": "new_zealand.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:38:53"
+  },
+  "603": {
+    "source": "new_zealand.csv",
+    "places": 50035,
+    "created_at": "2026-09-29T09:38:53"
+  },
+  "604": {
+    "source": "australia.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:41:31"
+  },
+  "605": {
+    "source": "australia.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:41:31"
+  },
+  "606": {
+    "source": "australia.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:41:31"
+  },
+  "607": {
+    "source": "australia.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:41:32"
+  },
+  "608": {
+    "source": "australia.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:41:32"
+  },
+  "609": {
+    "source": "australia.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:41:32"
+  },
+  "610": {
+    "source": "australia.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:41:32"
+  },
+  "611": {
+    "source": "australia.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:41:32"
+  },
+  "612": {
+    "source": "australia.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:41:32"
+  },
+  "613": {
+    "source": "australia.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:41:33"
+  },
+  "614": {
+    "source": "australia.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:41:33"
+  },
+  "615": {
+    "source": "australia.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:41:33"
+  },
+  "616": {
+    "source": "australia.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:41:33"
+  },
+  "617": {
+    "source": "australia.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:41:33"
+  },
+  "618": {
+    "source": "australia.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:41:33"
+  },
+  "619": {
+    "source": "australia.csv",
+    "places": 16680,
+    "created_at": "2026-09-29T09:41:33"
+  },
+  "620": {
+    "source": "canada.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:44:27"
+  },
+  "621": {
+    "source": "canada.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:44:27"
+  },
+  "622": {
+    "source": "canada.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:44:27"
+  },
+  "623": {
+    "source": "canada.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:44:27"
+  },
+  "624": {
+    "source": "canada.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:44:28"
+  },
+  "625": {
+    "source": "canada.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:44:28"
+  },
+  "626": {
+    "source": "canada.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:44:28"
+  },
+  "627": {
+    "source": "canada.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:44:28"
+  },
+  "628": {
+    "source": "canada.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:44:28"
+  },
+  "629": {
+    "source": "canada.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:44:28"
+  },
+  "630": {
+    "source": "canada.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:44:28"
+  },
+  "631": {
+    "source": "canada.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:44:29"
+  },
+  "632": {
+    "source": "canada.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:44:29"
+  },
+  "633": {
+    "source": "canada.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:44:29"
+  },
+  "634": {
+    "source": "canada.csv",
+    "places": 90000,
+    "created_at": "2026-09-29T09:44:29"
+  },
+  "635": {
+    "source": "canada.csv",
+    "places": 70593,
+    "created_at": "2026-09-29T09:44:29"
+  },
+  "636": {
+    "source": "danmark.csv",
+    "places": 66458,
+    "created_at": "2026-09-29T09:46:57"
+  },
+  "637": {
+    "source": "ireland.csv",
+    "places": 89732,
+    "created_at": "2026-09-29T09:49:26"
   }
 }
